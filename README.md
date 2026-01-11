@@ -29,7 +29,7 @@ We build **secure, modern, and future-ready systems** for individuals, startups,
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,linux,github,cloudflare, artificial intelegen" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,linux,github,cloudflare, ai" />
 </p>
 
 ---
