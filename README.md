@@ -29,7 +29,7 @@ We build **secure, modern, and future-ready systems** for individuals, startups,
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,linux,github,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,linux,github,cloudflare, artificial intelegen" />
 </p>
 
 ---
@@ -40,7 +40,3 @@ We build **secure, modern, and future-ready systems** for individuals, startups,
 - 📧 Email: contact@airproxcrop.com
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AIRPROXCROP&show_icons=true&theme=tokyonight" />
-</p>
