@@ -29,7 +29,7 @@ We build **secure, modern, and future-ready systems** for individuals, startups,
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,linux,github,cloudflare, ai" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,linux,github,cloudflare" />
 </p>
 
 ---
@@ -37,6 +37,6 @@ We build **secure, modern, and future-ready systems** for individuals, startups,
 ## 🌐 Connect With Us
 - 🌍 Website: *Coming Soon*
 - 💬 Discord: AIRPROXCROP Community
-- 📧 Email: contact@airproxcrop.com
+- 📧 Email: aiproxcrop@proton.mail.com
 
 ---
